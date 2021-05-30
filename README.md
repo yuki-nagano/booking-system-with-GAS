@@ -17,7 +17,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfriSnbloSMSqU7I6WQdUvET_OjIW2tzf3EdERz
 **Now, booking is done!**  
   
 To check the event that you submitted:  
-Check [my calendar](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FTokyo&amp;src=azNwNmpoNTBzaDZwY3YwNXNna2hpMjZ0OHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;hl=en&amp;mode=MONTH") or your own calendar!
+Check [my calendar](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FTokyo&amp;src=azNwNmpoNTBzaDZwY3YwNXNna2hpMjZ0OHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;hl=en&amp;mode=MONTH") or [your own calendar](https://calendar.google.com/calendar/u/0/r)!
 
 # For people who would like to test this form 
 **PLEASE INPUT A VALID EMAIL!**   
