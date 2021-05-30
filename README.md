@@ -10,7 +10,15 @@ https://docs.google.com/forms/d/e/1FAIpQLSfriSnbloSMSqU7I6WQdUvET_OjIW2tzf3EdERz
   https://docs.google.com/spreadsheets/d/19ZpQoqTgpS2I51isrtHZTLChTb4sgM_sbwrhcOMl3s4  
   (** email address column is hidden since it's personal infomation)
   
-3. what GAS does
+3. when GAS works  
+A trigger is set on GAS  
+    >**Function to run:** addTaskEvents  
+    >**Deployment should run:** Head  
+    >**Event source:** From spreadsheet  
+    >**Event type:** On form submit  
+  
+  
+4. what GAS does
   - creating on your google calendar and my(yuki.nagano.hb@gmail.com) calendar
   - the submitter will receive an invitation email that it's input on the form
 
